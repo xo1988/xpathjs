@@ -1,0 +1,18 @@
+{
+  "name": "xpathjs",
+  "version": "1.0.0",
+  "description": "get xpath of htmlelement or get htmlelement by xpath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xpath"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xo1988/xpathjs.git"
+  },
+  "author": "xyccstudio",
+  "license": "MIT"
+}
