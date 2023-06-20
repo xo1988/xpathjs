@@ -1,5 +1,5 @@
 {
-  "name": "xpathjs",
+  "name": "xpathpro",
   "version": "1.0.0",
   "description": "get xpath of htmlelement or get htmlelement by xpath",
   "main": "index.js",

@@ -1,9 +1,17 @@
-# xpathjs
+# xpathpro
 
 浏览器获取xpath.
 
 [English](https://github.com/xo1988/xpathjs/blob/main/README.md)
 [中文](https://github.com/xo1988/xpathjs/blob/main/README_zh.md)
+
+## 安装
+
+```javascript
+npm install xpathpro
+
+import {getXpathOfElement, getElementsByXpath} from 'xpathpro'
+```
 
 ## 使用
 
@@ -42,4 +50,4 @@ getElementsByXpath("/html/body[@class='mac os chrome modal-open']/div[@id='teamb
 // [div.scrollbar-horz-handler__KUYd]
 ````
 
-<img src="https://github.com/xo1988/xpathjs/blob/develop/bmc_qr.png" width="180">
+<img src="https://github.com/xo1988/xpathjs/blob/main/bmc_qr.png" width="180">

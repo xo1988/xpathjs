@@ -5,6 +5,14 @@ xpath for browser usage.
 [English](https://github.com/xo1988/xpathjs/blob/main/README.md)
 [中文](https://github.com/xo1988/xpathjs/blob/main/README_zh.md)
 
+## Install
+
+```javascript
+npm install xpathpro
+
+import {getXpathOfElement, getElementsByXpath} from 'xpathpro'
+```
+
 ## Usage
 
 1. Get the xpath of html element
