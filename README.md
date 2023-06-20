@@ -50,4 +50,4 @@ getElementsByXpath("/html/body[@class='mac os chrome modal-open']/div[@id='teamb
 // [div.scrollbar-horz-handler__KUYd]
 ````
 
-<img src="https://github.com/xo1988/xpathjs/blob/develop/bmc_qr.png" width="180">
+<img src="https://github.com/xo1988/xpathjs/blob/main/bmc_qr.png" width="180">
