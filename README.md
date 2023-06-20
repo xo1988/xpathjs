@@ -1,4 +1,4 @@
-# xpathjs
+# xpathpro
 
 xpath for browser usage.
 

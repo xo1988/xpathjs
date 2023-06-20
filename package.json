@@ -1,6 +1,6 @@
 {
   "name": "xpathpro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get xpath of htmlelement or get htmlelement by xpath",
   "main": "index.js",
   "scripts": {
